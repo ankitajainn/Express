@@ -4,15 +4,23 @@
   "description": "pro",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "test": "run",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "nil"
+    "url": "git+https://github.com/ankitajainn/Express.git"
   },
   "keywords": [
-    "ok"
+    "pro"
   ],
-  "author": "me",
-  "license": "ISC"
+  "author": "pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitajainn/Express/issues"
+  },
+  "homepage": "https://github.com/ankitajainn/Express#readme",
+  "dependencies": {
+    "url": "^0.11.4"
+  }
 }
